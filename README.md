@@ -1,5 +1,7 @@
 # n8n-nodes-paynow
 
+![Paynow n8n Integration](banner.png)
+
 This is an n8n community node that integrates Paynow payment gateway into your n8n workflows.
 
 Paynow is a popular payment gateway in Zimbabwe that enables businesses to accept mobile money and card payments. This node allows you to automate payment processing using Paynow's mobile money services directly within your n8n workflows.
